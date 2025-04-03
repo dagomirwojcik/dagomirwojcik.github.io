@@ -1,5 +1,6 @@
 # The Healthcare SaaS for UB Healthcare
 
-This is a test.
+## License
+This project is licensed by the [CC-BY License](LICENSE).
 
 
