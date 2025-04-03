@@ -9,14 +9,12 @@ Here is a link to [Dagomir's Portfolio Website](https://www.dagomirwojcik.com).
 
 ### Table of Contents
 - [Progression](#Progression)
-- [Project Registration](#Project_Registration)
 - [License](#License)
 
 ### Progression
-Here is a display of statistics for the progression of the project.
-
-### Project Registration
-TBD
+Here is a display of statistics for the progression of the project. Last Updated: 03/04/2025
+- ![Project Registration](https://img.shields.io/endpoint?url=https://dagomirwojcik.github.io/badges/fypregistration.json)
+- ![Project Pitch](https://img.shields.io/endpoint?url=https://dagomirwojcik.github.io/badges/fyppitch.json)
 
 ### License
 This project is licensed by the [CC-BY License](LICENSE).
