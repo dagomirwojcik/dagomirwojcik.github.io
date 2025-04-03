@@ -4,3 +4,9 @@
   "message": "0% Complete",
   "color": "red"
 }
+{
+  "schemaVersion": 2,
+  "label": "Project Progress",
+  "message": "0% Complete",
+  "color": "red"
+}
