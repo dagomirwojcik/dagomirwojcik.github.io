@@ -1,4 +1,4 @@
-## Healthcare SaaS & API
+## A Scalable & Modular System Microarchitecture for a Healthcare Company
 <p align = "justify">
 The final year project will involve the development of a software solution that will aid people in the MedTech industry with regards to data input, output, and retention. A system architecture diagram will be created to display the data flow and how a user will interact with this system. The main deliverable will be the software application that will use the authors API to demonstrate how it all works.
 </p>
