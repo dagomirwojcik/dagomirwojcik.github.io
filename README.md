@@ -4,17 +4,22 @@ The final year project will involve the development of a software solution that 
 </p>
 
 ### Project Author
-<img style="border-radius:10px" src="media/kpanel.png" alt="Dagomir Wojcik Google Knowledge Panel" />
+<img style="border-radius:10px" src="media/gravatar.png" alt="Dagomir Wojcik Gravatar Profile" />
 Here is a link to [Dagomir's Portfolio Website](https://www.dagomirwojcik.com).
+
 
 ### Table of Contents
 - [Progression](#Progression)
 - [License](#License)
+- [Project Registration](#Registration)
 
 ### Progression
-Here is a display of statistics for the progression of the project. Last Updated: 03/04/2025
+Here is a display of statistics for the progression of the project. Last Updated: 12/05/2025
 - ![Project Registration](https://img.shields.io/endpoint?url=https://dagomirwojcik.github.io/badges/fypregistration.json)
 - ![Project Pitch](https://img.shields.io/endpoint?url=https://dagomirwojcik.github.io/badges/fyppitch.json)
+- ![Project Dissertation](https://img.shields.io/endpoint?url=https://dagomirwojcik.github.io/badges/dissertation.json)
+
+### Registration
 
 ### License
 This project is licensed by the [CC-BY License](LICENSE).
